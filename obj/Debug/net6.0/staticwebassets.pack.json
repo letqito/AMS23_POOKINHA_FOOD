@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AMS23_CAROUSEL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AMS23_CAROUSEL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\bebidas.jpg",
+      "PackagePath": "staticwebassets\\images\\bebidas.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\bebidass.jpg",
+      "PackagePath": "staticwebassets\\images\\bebidass.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fdkjhs.jpg",
+      "PackagePath": "staticwebassets\\images\\fdkjhs.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\foto1.jpeg",
+      "PackagePath": "staticwebassets\\images\\foto1.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\foto1.png",
+      "PackagePath": "staticwebassets\\images\\foto1.png"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\foto2.jpeg",
+      "PackagePath": "staticwebassets\\images\\foto2.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\foto2.png",
+      "PackagePath": "staticwebassets\\images\\foto2.png"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fotos3.jpeg",
+      "PackagePath": "staticwebassets\\images\\fotos3.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fotos3.png",
+      "PackagePath": "staticwebassets\\images\\fotos3.png"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fotos4.jpeg",
+      "PackagePath": "staticwebassets\\images\\fotos4.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fotos4.png",
+      "PackagePath": "staticwebassets\\images\\fotos4.png"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fundis.jpg",
+      "PackagePath": "staticwebassets\\images\\fundis.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fundo.JPG",
+      "PackagePath": "staticwebassets\\images\\fundo.JPG"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\fundoo.jpg",
+      "PackagePath": "staticwebassets\\images\\fundoo.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\keropi.jpg",
+      "PackagePath": "staticwebassets\\images\\keropi.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\ljsz.jpg",
+      "PackagePath": "staticwebassets\\images\\ljsz.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\macarron.jpg",
+      "PackagePath": "staticwebassets\\images\\macarron.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\ohol.jpg",
+      "PackagePath": "staticwebassets\\images\\ohol.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza1.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza1.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza11.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza11.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza111.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza111.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza2.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza22.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza22.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza222.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza222.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza3.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza3.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza33.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza33.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza333.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza333.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizza3333.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza3333.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pizzariaa.jpg",
+      "PackagePath": "staticwebassets\\images\\pizzariaa.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\pompom.jpg",
+      "PackagePath": "staticwebassets\\images\\pompom.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\purin.jpeg",
+      "PackagePath": "staticwebassets\\images\\purin.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\purin1.jpeg",
+      "PackagePath": "staticwebassets\\images\\purin1.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\purin2.jpeg",
+      "PackagePath": "staticwebassets\\images\\purin2.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\purin3.jpeg",
+      "PackagePath": "staticwebassets\\images\\purin3.jpeg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\rosquinha.jpg",
+      "PackagePath": "staticwebassets\\images\\rosquinha.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\sobremesa.jpg",
+      "PackagePath": "staticwebassets\\images\\sobremesa.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\talvezfundo.jpg",
+      "PackagePath": "staticwebassets\\images\\talvezfundo.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\images\\talvezz.jpg",
+      "PackagePath": "staticwebassets\\images\\talvezz.jpg"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\2A\\AMS23_CAROUSEL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AMS23_CAROUSEL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AMS23_CAROUSEL.props",
+      "PackagePath": "build\\AMS23_CAROUSEL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AMS23_CAROUSEL.props",
+      "PackagePath": "buildMultiTargeting\\AMS23_CAROUSEL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AMS23_CAROUSEL.props",
+      "PackagePath": "buildTransitive\\AMS23_CAROUSEL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
